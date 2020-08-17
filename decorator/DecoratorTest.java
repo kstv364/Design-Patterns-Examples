@@ -76,3 +76,15 @@ public class DecoratorTest {
 	}
 
 }
+
+/*
+// OUTPUT 
+5
+This beverage is Tea
+With topping Elaichi
+8
+This beverage is Tea
+With topping Elaichi
+With topping Caramel
+10*/
+

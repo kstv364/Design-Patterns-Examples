@@ -125,3 +125,37 @@ public class ObserverTest {
 	}
 
 }
+
+/* 
+// OUTPUT
+UPdate Called
+Current State : 1
+UPdate Called
+Current State of observed : 1
+UPdate Called
+Current State : 2
+UPdate Called
+Current State of observed : 2
+UPdate Called
+Current State : 3
+UPdate Called
+Current State of observed : 3
+UPdate Called
+Current State : 4
+UPdate Called
+Current State of observed : 4
+UPdate Called
+Current State : 5
+UPdate Called
+Current State of observed : 5
+UPdate Called
+Current State : 6
+UPdate Called
+Current State : 7
+UPdate Called
+Current State : 8
+UPdate Called
+Current State : 9
+UPdate Called
+Current State : 10
+*/

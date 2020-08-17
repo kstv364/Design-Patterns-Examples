@@ -42,6 +42,12 @@ public class SingletonTest {
 		
 		System.out.println(b.getUrl());
 		
+		// OUTPUT
+		/*	Database Connection at http://mongodn.com/user1/db1 Created
+			http://mongodn.com/user1/db1
+			Database connection already present
+			http://mongodn.com/user1/db1
+		*/
 
 	}
 

@@ -11,6 +11,7 @@ interface IFly{
 }
 
 
+
 class NoFly implements IFly{
 	public void fly(){
 		System.out.println("No FLy");
@@ -68,6 +69,11 @@ public class StrategyTest {
 		*/
 		
 		// CLIENT DOES NOT NEED TO CHANGE IF BEHAVIOUR IMPLEMENTATION CHANGES OR IS UPDATED
+		
+		/* OUTPUT
+		Simple Quack
+		Straight FLy
+		*/
 		
 	}
 
